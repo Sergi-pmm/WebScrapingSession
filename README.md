@@ -19,9 +19,14 @@ Este repositorio contiene notebooks, scripts y material complementario para el p
 
 **notebooks/** → Notebooks interactivos en Jupyter:
 
+- `00-Comprobar_Entorno.ipynb`
 - `01_fundamentos_python.ipynb`
 - `02_fundamentos_pandas.ipynb`
 - `03_web_scraping_basico.ipynb`
+- `04-Extraccion_Datos_INE.ipynb`
+- `05-Bonus_Scraping_Academico.ipynb`
+- `06-Bonus_Scraping_CNMV.ipynb`
+
 
 **slides/** → Presentación y materiales en PDF utilizados en el taller.
 
