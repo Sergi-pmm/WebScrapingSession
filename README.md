@@ -87,7 +87,6 @@ $ conda info --envs
 ## Contacto y Créditos
 
 ```markdown
----
 *Material desarrollado por [Sergi Pons](https://es.linkedin.com/in/sergi-pons-muñoz-de-morales-b1712b47) para un taller introductorio impartido en la [Universitat de Barcelona Business School](https://www.ub.edu/business-school/), con asistencia de [Claude](https://claude.ai) (Anthropic) y [ChatGPT](https://chatgpt.com) (OpenAI).*
 ```
 
